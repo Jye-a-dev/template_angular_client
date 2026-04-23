@@ -2,7 +2,7 @@
 
 ## Clone repo này
 ```bash
-git clone <repo-url>
+git clone https://github.com/Jye-a-dev/template_angular_client
 ```
 
 Template khởi tạo cho frontend dùng **Angular standalone + Angular Router** theo hướng dễ mở rộng, rõ layout, rõ khu vực route, và đủ gọn để làm base cho project mới.
